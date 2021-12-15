@@ -12,5 +12,5 @@ For this challenge, the goal is to create a REST API that can be used to retriev
 ## Challenges
 
 1. Create a REST API with an endpoint that can be used to retrieve the user's id, name, and email address by ID. You can decide on an URI structure - there is no wrong answer.
-2. Change the display of the user's name to be surname first and capitalized, followed by a comma, a space, and then the first name.
+2. Change the display of the user's name to be surname first and capitalized, followed by a comma, a space, and then the first name. e.g "REES, Dayle"
 3. Show the current count of points for each user in the API response.
